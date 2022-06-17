@@ -16,3 +16,4 @@
 [![Pant-Delivery5-Restaurant.png](https://i.postimg.cc/g2qLnwzz/Pant-Delivery5-Restaurant.png)](https://postimg.cc/BjbnznPk)
 
 ### Modulo Repartidor: Estado del pedido, Lista del orden, Mapeo del pedido / Editar perfil y Seleccion del rol
+[![Pant-Delivery6-Repartidor.png](https://i.postimg.cc/nz7kz4Ld/Pant-Delivery6-Repartidor.png)](https://postimg.cc/348pfDmp)
