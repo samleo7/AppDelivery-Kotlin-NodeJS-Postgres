@@ -8,3 +8,6 @@
 
 ### Modulo Cliente: Carrito de compras, orden del producto, direccion del delivery
 [![Pant-Delivery3-Cliente.png](https://i.postimg.cc/HxzZpWKj/Pant-Delivery3-Cliente.png)](https://postimg.cc/KkKrfbmy)
+
+### Modulo Cliente: Formas de pago, direccion del delivery, estado del pedido, lista de la orden
+[![Pant-Delivery4-Cliente.png](https://i.postimg.cc/J7qFcxpZ/Pant-Delivery4-Cliente.png)](https://postimg.cc/hhXMKLWt)
