@@ -11,3 +11,6 @@
 
 ### Modulo Cliente: Formas de pago, direccion del delivery, estado del pedido, lista de la orden
 [![Pant-Delivery4-Cliente.png](https://i.postimg.cc/J7qFcxpZ/Pant-Delivery4-Cliente.png)](https://postimg.cc/hhXMKLWt)
+
+### Modulo Restaurant :Estado del pedido, Lista del orden del cliente y seleccion del repartidor, crear categoria y crear producto
+[![Pant-Delivery5-Restaurant.png](https://i.postimg.cc/g2qLnwzz/Pant-Delivery5-Restaurant.png)](https://postimg.cc/BjbnznPk)
